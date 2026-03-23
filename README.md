@@ -17,6 +17,8 @@
 - **模板功能** - 内置会议纪要、待办事项、工作日志模板
 - **系统托盘** - 最小化到系统托盘，后台运行
 - **本地存储** - 数据安全存储在本地，无需联网
+<img width="560" height="480" alt="image" src="https://github.com/user-attachments/assets/adde5316-3895-4c56-be83-112c5f7a8263" />
+
 
 ## 技术栈
 
