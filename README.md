@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="build/appicon.png" width="80" alt="MochaNote Logo" />
+  <img src="images/icon.png" width="80" alt="MochaNote Logo" />
 </p>
 
 <h1 align="center">MochaNote · 摩卡便签</h1>
